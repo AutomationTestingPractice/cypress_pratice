@@ -27,5 +27,4 @@ getShopTab()
 
 }
 
-
 export default HomePage;

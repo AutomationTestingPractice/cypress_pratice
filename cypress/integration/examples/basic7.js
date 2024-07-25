@@ -11,12 +11,6 @@ describe('Handling Child Windows', () => {
         cy.get(".mt-50 h2").should('contain','QAClick Academy');
     })
 
-        //Assignment
-        // cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/");
-
-        // cy.get(".blinkingText").invoke('removeAttr','target').click();
-        // cy.get("h1").should('contain','Documents request');
-
     });
 
 });

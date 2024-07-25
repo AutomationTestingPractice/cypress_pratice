@@ -9,4 +9,3 @@ checkOutButton()
 export default ProductPage;
 
 
-

@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+
 import HomePage from '../../support/pageObjects/HomePage'
 import ProductPage from '../../support/pageObjects/ProductPage'
 describe('My Second Test Suite', function () {
